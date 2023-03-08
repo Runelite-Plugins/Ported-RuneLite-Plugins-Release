@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Plugin-Version: 1.0.1
-Plugin-Id: tobspoon-plugin
-Plugin-Provider: unethicalite
-Plugin-Description: Better Tob QOL
-Plugin-License: 3-Clause BSD License
-
